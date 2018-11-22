@@ -1,0 +1,43 @@
+	.Rbt{
+		background-image: url(https://img.ev.mu/images/villes/12717/1605x642/12717.jpg);
+	}
+
+	.Paris{
+		background-image: url(https://www.familinparis.fr/images/500x/500x250/Cinema/le-paris-des-dessins-anies-500x250.jpg);
+	}
+	
+	.Bnk{
+		background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/03/9b/2d/ad/bangkok.jpg);
+	}
+
+	.Seoul{
+		background-image: url(https://www.ef.fr/sitecore/__~/media/efcom/2018/ils/destinations/South-Korea/Korea_country-stage_desktop.jpg);
+	}
+
+	.Tky{
+		background-image:  linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(https://www.fr.jal.co.jp/world/en/guidetojapan/detail/img/tokyo_tower/tokyo_tower_01.jpg);
+	}
+
+	.Tel{
+		background-image: url(https://www.bravofly.fr/offres/vols/bravofly/img/tel_aviv.jpg);
+	}
+
+	.Tel{
+		background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(https://www.bravofly.fr/offres/vols/bravofly/img/tel_aviv.jpg);
+	}
+
+	.Pekin{
+		background-image: url(https://www.merveilles-du-monde.com/Cite-interdite/images/Pekin/Pekin-02.jpg);
+	}
+
+	.Berlin{
+		background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(https://cdn.extra-funds.de/wp-content/uploads/2016/04/investieren-in-deutschland-etf.jpg);
+	}
+
+	.New-York{
+		background-image: url(https://static.lexpress.fr/medias_11191/w_1887,h_1056,c_crop,x_0,y_443/w_640,h_360,c_fill,g_north/v1477034513/manhattan-4_5729899.jpg);
+	}	
+
+	.Rio{
+		background-image: url(https://www.silversea.com/content/dam/silversea-com/ports/r/rio-de-janeiro/silversea-south-america-cruises-rio-de-janeiro-brazil.jpg);
+	}	

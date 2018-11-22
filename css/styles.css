@@ -1,0 +1,82 @@
+@import 'Cities.css';
+@import 'Responsive.css';
+
+/*Header styles*/
+	#header{
+		height: 50px;
+		background-color: white;
+		text-align: center;
+	}
+	
+	#hearder-logo{
+		height:30px;
+		margin: 15px;
+	}
+
+/*Body*/ 
+
+	h2{
+		padding-top: 30px;
+	}
+
+
+	#section{
+		display:flex;
+		flex-direction: row;
+		margin-top: 10px;
+	}
+	
+
+	.Flex{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		max-width: 70%;
+	}	
+	
+	.Flex > div{
+		flex-grow: 1;
+		width: 350px;
+
+		
+		background-size: cover;
+		background-repeat: no-repeat;
+
+		margin: 15px;
+		margin-right: 7px;
+		margin-left: 7px;
+		margin-top:0px;
+		height: 150px;
+
+		text-align: center;
+		color: white;
+
+		align-items: center;
+	}
+
+	#Map{
+		border:none;
+		position: sticky; top:0px; bottom:0px; right: 0px;
+		margin-bottom: 15px;
+		width:30%; 
+		height:960px;
+	}
+
+	@media (max-width: 1040px){
+			#section{
+				display:flex;
+				flex-direction: column;
+				margin-top: 10px;
+			}
+
+			.Flex{
+				max-width: 100%;
+			}
+			#Map{
+				border:none;
+				position: relative;
+				margin-bottom: 0px;
+				width:100%; 
+				height:600px;
+	}	
+	}
